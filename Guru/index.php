@@ -50,7 +50,7 @@
                         <th scope="col">NIP</th>
                         <th scope="col">Nama Guru</th>
                         <th scope="col">Alamat</th>
-                        <th scope="col">Action</th>
+                        <th scope="col">Aksi</th>
                         </tr>
                     </thead>
                     
