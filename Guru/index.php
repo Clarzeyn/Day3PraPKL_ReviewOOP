@@ -34,7 +34,7 @@
         
 
         <center><h2>Guru</h2></center>
-        <!-- CARDs -->
+
         <div class="container">
         <div class="card">
             <div class="card-header">
