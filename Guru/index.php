@@ -42,13 +42,13 @@
                 <center><a href="create.php" class="btn btn-primary">Tambah Data</a></center>
             </div>
             <div class="card-body">
-                <!-- TABLE DOSEN -->
+
                 <table class="table table-striped">
                     <thead>
                         <tr>
                         <th scope="col">No</th>
                         <th scope="col">NIP</th>
-                        <th scope="col">Nama Guru Guru</th>
+                        <th scope="col">Nama Guru</th>
                         <th scope="col">Alamat</th>
                         <th scope="col">Aksi</th>
                         </tr>
